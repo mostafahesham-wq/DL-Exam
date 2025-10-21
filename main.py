@@ -1,5 +1,4 @@
 # backend/main.py
-# momdev edit 
 
 import os
 import traceback
